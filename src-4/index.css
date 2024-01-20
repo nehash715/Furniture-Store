@@ -1,0 +1,117 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.top{
+ color: white;
+}
+.todo{
+  display:flex;
+}
+
+.img{
+  height: 200px;
+  width: 200px;
+  margin: 20px;
+}
+.box{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+.size{
+  height: 800px;
+}
+.cartimg{
+  height: 100px;
+  width:100px
+}
+.linkcolor{
+  color:white;
+  text-decoration: none;
+}
+.linkcolor:hover{
+  color:white;
+  text-decoration: none;
+}
+.tablecon{
+  width: 800px;
+  margin-left: 100px;
+}
+.box{
+  background-color: aquamarine;
+  height: 180px;
+  width: 200px;
+  margin: 10px;
+  border: black 1px;
+ 
+}
+.mainbox{
+display: flex;
+flex-wrap: wrap;
+}
+.upper{
+  display: flex;
+  margin-top: 10px;
+}
+ul{
+  display: flex;
+list-style: none;
+}
+li{
+  text-decoration: none;
+}
+.nabar{
+  background-color: black;
+  color: white;
+}
+
+.logoshow{
+  height: 70px;
+  width: 100px;
+}
+
+.search{
+  
+ margin-left: 140px;
+ width: 400px;
+
+}
+
+.bookmyshow{
+  height: 48px;
+}
+li{
+  margin-left:160px
+}
+.Ncr{
+  margin-left: 165px;
+}
+.english{
+  margin-left: 100px;
+}
+.signbtn{
+  border-width:1px white;
+  border-color: white;
+  color: white;
+  
+  background-color: black;
+  margin-left: 80px;
+  width: 90px;
+  border-radius: 10px;
+}
+
+.car{
+  width: 500px;
+  height: 500px;
+  margin-left: 400px;
+}
